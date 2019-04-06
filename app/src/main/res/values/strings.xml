@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhoWroteItLoader</string>
+    <string name="instructions">Ingrese el nombre del libro para averiguar quién escribió el libro.</string>
+    <string name="button_text">Buscar libros</string>
+    <string name="input_hint">Titulo del libro</string>
+
+    <string name="loading">Cargando…</string>
+    <string name="no_results">"No se han encontrado resultados"</string>
+    <string name="no_search_term">Por favor ingrese un término de búsqueda</string>
+    <string name="no_network">Por favor verifica tu conexión de red y vuelve a intentarlo.</string>
+</resources>
